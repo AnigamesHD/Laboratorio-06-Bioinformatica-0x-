@@ -623,7 +623,7 @@ Family: Pro_Al_protease (PF02983) Loading page components (2 remaining)
 Dominio: None
 
 Logo: https://www.dropbox.com/s/3f0ph2q2ov6flph/Captura%20de%20pantalla%202017-10-25%20a%20la%28s%29%2020.26.31.png?dl=0
-Se observa D (acido Aspártico)a ltamente conservado , mientras que se muestra menos conservación pero igual con  prevalencia de los aminoácidos hidrofóbicos W (Triptófano), N (Asparagina) y  V (Valina).
+Se observa D (acido Aspártico) altamente conservado , mientras que se muestra menos conservación pero igual con  prevalencia de los aminoácidos hidrofóbicos W (Triptófano), N (Asparagina) y  V (Valina).
 
 http://pfam.xfam.org/family/Pro_Al_protease#tabview=tab4
 
@@ -634,6 +634,7 @@ Family: Peptidase_S8 (PF00082)
 Dominio: Peptidase S8/S53 domain
 
 Logo: https://www.dropbox.com/s/grtjccy4cn44cwi/Captura%20de%20pantalla%202017-10-25%20a%20la%28s%29%2020.29.15.png?dl=0
+ Se observa G (Glicina) altamente conservado y el segundo aminoácido que presenta una alta conservación corresponde a N (Asparagina). 
 
 http://pfam.xfam.org/family/Peptidase_S8#tabview=tab4
 
