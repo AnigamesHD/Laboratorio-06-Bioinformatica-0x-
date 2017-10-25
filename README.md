@@ -113,7 +113,7 @@ Subtilisin-like: hidrólisis de proteínas con una gran especificidad para enlac
 
 Se diferencian en la preferencia de escisión que tiene cada una.
 
-___P.4 A partir de lo aprendido e incluyendo la información del organismo del cual provienen las proteínas estudiadas discuta sobre el proceso de evolución de las serine proteasas.__
+__P.4 A partir de lo aprendido e incluyendo la información del organismo del cual provienen las proteínas estudiadas discuta sobre el proceso de evolución de las serine proteasas.__
 
  A partir de la información que se ha aprendido durante el práctico se puede inferir que la gran mayoría de las proteínas pertenecientes a la familia de serin proteasas provienen de un ancestro en común, dado que todas poseen una triada catalítica conservada, un residuo de serina, histidina y aspartato.  
 
