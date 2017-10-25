@@ -552,59 +552,107 @@ __P.19 informe el nombre de la familia, dominios y al menos una porción del log
 + Q99895
 Family: Trypsin (PF00089)
 Dominio: Peptidase S1A
-Logo: http://pfam.xfam.org/family/PF00089#tabview=tab4
+Logo: https://www.dropbox.com/s/1cnq7zokm80rt52/Captura%20de%20pantalla%202017-10-25%20a%20la%28s%29%2020.21.00.png?dl=0
+http://pfam.xfam.org/family/PF00089#tabview=tab4
 
 + P00766
 Family: Trypsin (PF00089)
 Dominio: Peptidase S1A
-Logo:http://pfam.xfam.org/family/Trypsin#tabview=tab4
+Logo: https://www.dropbox.com/s/1cnq7zokm80rt52/Captura%20de%20pantalla%202017-10-25%20a%20la%28s%29%2020.21.00.png?dl=0
+
+http://pfam.xfam.org/family/Trypsin#tabview=tab4
 
 + P00760
 Family: Trypsin (PF00089)
+
 Dominio: Petidase S1A
-Logo: http://pfam.xfam.org/family/Trypsin_2#tabview=tab4
+
+Logo: https://www.dropbox.com/s/1cnq7zokm80rt52/Captura%20de%20pantalla%202017-10-25%20a%20la%28s%29%2020.21.00.png?dl=0
+
+http://pfam.xfam.org/family/Trypsin_2#tabview=tab4
 
 +P00775
 Family: Trypsin (PF00089)
 Dominio: Petidase S1A
 SCOOP:	DUF1986 DUF316 Peptidase_S29 Peptidase_S32 Peptidase_S46 Peptidase_S7 Trypsin_2
 Similarity to PfamA using HHSearch:	DUF316 DUF1986 Trypsin_2
-Logo: http://pfam.xfam.org/family/Trypsin#tabview=tab0
+Logo: https://www.dropbox.com/s/1cnq7zokm80rt52/Captura%20de%20pantalla%202017-10-25%20a%20la%28s%29%2020.21.00.png?dl=0
+
+http://pfam.xfam.org/family/Trypsin#tabview=tab0
 
 + P00775
-Family: Trypsin (PF00089)
-Dominio: Petidase S1A
-Logo: http://pfam.xfam.org/family/Trypsin#tabview=tab4
 
-+P00776
 Family: Trypsin (PF00089)
+
 Dominio: Petidase S1A
-Logo: http://pfam.xfam.org/family/Trypsin#tabview=tab0
-Family: Pro_Al_protease (PF02983) Loading page components (2 remaining)…
+
+Logo: https://www.dropbox.com/s/1cnq7zokm80rt52/Captura%20de%20pantalla%202017-10-25%20a%20la%28s%29%2020.21.00.png?dl=0
+
+http://pfam.xfam.org/family/Trypsin#tabview=tab4
+
++ P00776
+
+Family: Trypsin (PF00089)
+
+Dominio: Petidase S1A
+
+Logo: https://www.dropbox.com/s/1cnq7zokm80rt52/Captura%20de%20pantalla%202017-10-25%20a%20la%28s%29%2020.21.00.png?dl=0
+
+http://pfam.xfam.org/family/Trypsin#tabview=tab0
+
+Family: Pro_Al_protease (PF02983) Loading page components (2 remaining)
+
 Dominio: None
-Logo: http://pfam.xfam.org/family/Pro_Al_protease#tabview=tab4
+
+Logo: https://www.dropbox.com/s/3f0ph2q2ov6flph/Captura%20de%20pantalla%202017-10-25%20a%20la%28s%29%2020.26.31.png?dl=0
+
+http://pfam.xfam.org/family/Pro_Al_protease#tabview=tab4
 
 + P00782
+
 Family: Peptidase_S8 (PF00082)
+
 Dominio: Peptidase S8/S53 domain
-Logo: http://pfam.xfam.org/family/Peptidase_S8#tabview=tab4
+
+Logo: https://www.dropbox.com/s/grtjccy4cn44cwi/Captura%20de%20pantalla%202017-10-25%20a%20la%28s%29%2020.29.15.png?dl=0
+
+http://pfam.xfam.org/family/Peptidase_S8#tabview=tab4
 
 Family: Inhibitor_I9 (PF05922) Loading page components (1 remaining)…
+
 Dominio: None
-Logo: http://pfam.xfam.org/family/Inhibitor_I9#tabview=tab4
+
+Logo: https://www.dropbox.com/s/9hg3vwludy191rd/Captura%20de%20pantalla%202017-10-25%20a%20la%28s%29%2020.31.05.png?dl=0
+
+http://pfam.xfam.org/family/Inhibitor_I9#tabview=tab4
 
 + P09210
+
 Family: GST_N (PF02798)
+
 Dominio: Glutathione S-transferase
-Logo: http://pfam.xfam.org/family/GST_N#tabview=tab4
+
+Logo: https://www.dropbox.com/s/iekpcoljhydbnvd/Captura%20de%20pantalla%202017-10-25%20a%20la%28s%29%2020.33.10.png?dl=0
+
+http://pfam.xfam.org/family/GST_N#tabview=tab4
+
 Family: GST_C_3 (PF14497)
+
 Dominio: Glutathione S-transferase, C-terminal
-Logo: http://pfam.xfam.org/family/GST_C_3#tabview=tab4
+
+Logo: https://www.dropbox.com/s/igod1jmwu1sa0gy/Captura%20de%20pantalla%202017-10-25%20a%20la%28s%29%2020.34.22.png?dl=0
+
+http://pfam.xfam.org/family/GST_C_3#tabview=tab4
 
 + P01112
+
 Family: Ras (PF00071)
+
 Dominio: Small GTPase superfamily
-Logo: http://pfam.xfam.org/family/Ras#tabview=tab4
+
+Logo: https://www.dropbox.com/s/naapo5m25l45zit/Captura%20de%20pantalla%202017-10-25%20a%20la%28s%29%2020.35.57.png?dl=0
+
+http://pfam.xfam.org/family/Ras#tabview=tab4
 
 
 # InterPro
