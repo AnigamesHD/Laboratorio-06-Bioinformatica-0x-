@@ -14,27 +14,27 @@
 
 __P.1 Traduzca los nombres de las serina proteasas descritas anteriormente.__
 
-+ _Chymotrypsin: Quimotripsina EC 3.4.21.1	
++ Chymotrypsin: Quimotripsina EC 3.4.21.1	
 
-+ _Thrombin: Trombina  EC 3.4.21.5	
++ Thrombin: Trombina  EC 3.4.21.5	
 
-+ _Trypsin: Tripsina EC 3.4.21.4
++ Trypsin: Tripsina EC 3.4.21.4
 
-+ _Elastase: Elastasa EC 3.4.21.36,EC 3.4.21.71,EC 3.4.21.71,EC 3.4.21.70,EC 3.4.21.70,EC 3.4.21.2,EC 3.4.21.37,EC 3.4.24.65
++ Elastase: Elastasa EC 3.4.21.36,EC 3.4.21.71,EC 3.4.21.71,EC 3.4.21.70,EC 3.4.21.70,EC 3.4.21.2,EC 3.4.21.37,EC 3.4.24.65
 
-+ _Plasmin	: Plasmina  EC 3.4.21.7	
++ Plasmin	: Plasmina  EC 3.4.21.7	
 
-+ _Acrosomal protease: Proteasa (s) acrosómica 
++ Acrosomal protease: Proteasa (s) acrosómica 
 
-+ _Complement C1: Complemento proteína C1 	
++ Complement C1: Complemento proteína C1 	
 
-+ _Keratinase: Queratinasa D9IXA7
++ Keratinase: Queratinasa D9IXA7
 
-+ _Collagenase: Colagenasa P08897
++ Collagenase: Colagenasa P08897
 
-+ _Fibrinolysin: Fibrinolisina P17811
++ Fibrinolysin: Fibrinolisina P17811
 
-+ _Cocoo- nase: Cocoonase P35586
++ Cocoo- nase: Cocoonase P35586
 
 __P.2 Describa su funcion de forma general.__
 
@@ -117,9 +117,9 @@ ___P.4 A partir de lo aprendido e incluyendo la información del organismo del c
 
  A partir de la información que se ha aprendido se puede inferir que la gran mayoría de las proteínas pertenecientes a la familia de serin proteasas proviene de un ancestro en común, ya que, todas poseen una triada catalítica conservada, un residuo de serina, histidina y aspartato.  
 
-Uniprot
+ # Uniprot
 
-P.5 ¿Describa a manera general la información biológica que puede obtener en UNIPROT?.
+__P.5 ¿Describa a manera general la información biológica que puede obtener en UNIPROT?.__
 Uniprot es una base de datos correspondiente de secuencias de proteínas e información funcional  adicional de ellas, derivadas de proyectos de secuenciación de genomas, en el cual al acceder a las bases de uniprot se puede obtener información de nombres de proteínas u genes, funciones, actividades catalíticas,residuos catalíticos, ubicaciones subcelulares, dominios, sitios significativos, formas  variantes de proteínas provocadas por variación genética, entre otras más informaciones.
 
 Es una página que entrega  información de alta calidad e proteínas su secuencia  y también de su funcionalidad, de alta calidad significa que viene curada que hay alguien que manualmente reviso esta informacion entonces esta es una base de datos fidedigna (es algo que es válido)
@@ -127,7 +127,7 @@ Es una página que entrega  información de alta calidad e proteínas su secuenc
 
 -Provee anotación detallada de secuencias biológicas, sean estas; estructuras, función, clasificación de familias de proteínas, dominios estructurales, sitios catalíticos, cofactores, vías metabólicas, entre otros.
 
-P.6  Describa cada una de sus proteínas. Utilice la tabla de descripción utilizada anteriormente. 
+__P.6  Describa cada una de sus proteínas. Utilice la tabla de descripción utilizada anteriormente.__ 
 						
 					 				
 		
@@ -636,9 +636,10 @@ PS00138 (SUBTILASE_SER)
 P.21 La información obtenida para Pfam y Prosite desde InterPro, ¿corresponde con aquella obtenida por usted desde esas bases de datos directamente en los puntos anteriores?
 
 Si, ya que Interpro utiliza a estas bases de datos como herramientas para entregar un análisis detallado del ensayo. Es decir, mezcla la información sobre dominios y familias proteicas y otras bases de datos y realiza una biblioteca en base a la información curada disponible. Las bases de datos que le sirven de herramienta forman parte del interpro consotrium (ver https://www.ebi.ac.uk/interpro/about.html)
+
 P.22 ¿Qué otras bases de datos, además de Pfam y Prosite, están contenidas en InterPro y que información aportan sobre las proteínas que usted investigó? Nombre las bases de datos.
 
-_R_:  Aparte de las bases de datos ya mencionadas se encuentra CDD (Conserved Protein Domain Family)  y SMART (simple modular architecture research tool). CDD entrega información del sitio activo, sitio de escisión y el sustrato representadas en imágenes de proteínas modeladas además nos entrega una sequence cluster. Mientras que SMART permite explorar arquitecturas de dominio, y revisar en qué organismos es posible encontrar dicho dominio.
+ Aparte de las bases de datos ya mencionadas se encuentra CDD (Conserved Protein Domain Family)  y SMART (simple modular architecture research tool). CDD entrega información del sitio activo, sitio de escisión y el sustrato representadas en imágenes de proteínas modeladas además nos entrega una sequence cluster. Mientras que SMART permite explorar arquitecturas de dominio, y revisar en qué organismos es posible encontrar dicho dominio.
 
 HMMER
 
@@ -647,7 +648,7 @@ P.23 La información obtenida para Pfam y Prosite, InterPro y HMMER, ¿correspon
 Al realizar la búsqueda de las correspondientes proteínas por HMMER, la información entregada por esta corrobora con los datos obtenidos por Pfam, InterProt y Prosite entregando así información relevante de taxonomía, score y dominios que estas proteínas posean.
 P.24 ¿Qué otras bases de datos, además de Pfam y Prosite, están contenidas en InterPro y aportan información para las proteínas que usted investigó? Nombre las bases de datos.
 
-R: Aparte de las bases de datos ya mencionadas se encuentra CDD (Conserved Protein Domain Family)  y SMART (simple modular architecture research tool). CDD entrega información del sitio activo, sitio de escisión y el sustrato representadas en imágenes de proteínas modeladas además nos entrega una sequence cluster. Mientras que SMART permite explorar arquitecturas de dominio, y revisar en qué organismos es posible encontrar dicho dominio.
+Aparte de las bases de datos ya mencionadas se encuentra CDD (Conserved Protein Domain Family)  y SMART (simple modular architecture research tool). CDD entrega información del sitio activo, sitio de escisión y el sustrato representadas en imágenes de proteínas modeladas además nos entrega una sequence cluster. Mientras que SMART permite explorar arquitecturas de dominio, y revisar en qué organismos es posible encontrar dicho dominio.
 
 P.25 ¿Son los resultados entregados equivalentes al buscar por código que por secuencia? 
 
@@ -655,7 +656,7 @@ _R_: En general los dos tipos de búsquedas entregan una información similar, l
 
 P.26 ¿Que puede inferir de las relaciones entre estas proteínas con los resultados entregados?
 
-_R_: Al realizar la búsqueda por HMMER, se logra inferir que las primeras 5 proteínas (Q99895, P00766, P00760, P00775, P007769) corresponden a  la familia Trypsin, pero a su vez la quinta ya no solo forma  parte de la familia de las trypsin sino que también por Pro_Al_protease, siendo además las primeras 4 proteínas pertenecientes en gran medida a organismos eucariontes, en tanto la 5 proteínas corresponde en gran medida a Bacterias. Por otro lado la búsqueda de las proteínas 6, 7 y 8, arrojó información diferente a las primeras, en el cual la sexta proteína (P00782) corresponde a una Peptidase_S8 en el cual abunda en gran medida tanto en eucariones (8826) como en bacterias (8754), en tanto  la 7 proteína (P09210) pertenece a GST_C_3 y  GST_N siendo abundante en eucariontes, por último la última proteína  (P01112) dio como resultado que este pertenece a Ras, estando casi completamente presentes solo en organismos eucariontes, por lo cual con esto se logra inferir  que las primeras 5 proteínas corresponde a un proceso evolutivo de convergencia dado que poseen información similar, misma familia y perteneciendo mayormente a organismos eucariontes, en tanto al resto de proteínas estas difieren de las primeras ya que, no corresponden a Trypsin y ya no solo abundan en eucariotas sino que también en bacterias como es el caso de la  P00782.
+Al realizar la búsqueda por HMMER, se logra inferir que las primeras 5 proteínas (Q99895, P00766, P00760, P00775, P007769) corresponden a  la familia Trypsin, pero a su vez la quinta ya no solo forma  parte de la familia de las trypsin sino que también por Pro_Al_protease, siendo además las primeras 4 proteínas pertenecientes en gran medida a organismos eucariontes, en tanto la 5 proteínas corresponde en gran medida a Bacterias. Por otro lado la búsqueda de las proteínas 6, 7 y 8, arrojó información diferente a las primeras, en el cual la sexta proteína (P00782) corresponde a una Peptidase_S8 en el cual abunda en gran medida tanto en eucariones (8826) como en bacterias (8754), en tanto  la 7 proteína (P09210) pertenece a GST_C_3 y  GST_N siendo abundante en eucariontes, por último la última proteína  (P01112) dio como resultado que este pertenece a Ras, estando casi completamente presentes solo en organismos eucariontes, por lo cual con esto se logra inferir  que las primeras 5 proteínas corresponde a un proceso evolutivo de convergencia dado que poseen información similar, misma familia y perteneciendo mayormente a organismos eucariontes, en tanto al resto de proteínas estas difieren de las primeras ya que, no corresponden a Trypsin y ya no solo abundan en eucariotas sino que también en bacterias como es el caso de la  P00782.
 
 En el caso que Ud. deba que caracterizar una muestra problema,
 P.27 Genere una hipótesis que pueda resolver utilizando la información contenida en los diferentes sitios observados
