@@ -136,6 +136,8 @@ __P.6  Describa cada una de sus proteínas. Utilice la tabla de descripción uti
 
 Código uniprot: Q99895
 
+EC#: 3.4.21.2
+
 Nombre: Chymotrypsin-C
 
 Organismo: Homo sapiens (Human)
@@ -167,6 +169,8 @@ SSF50494. 1 hit.
 
 Código uniprot: P00760
 
+EC: 3.4.21.4
+
 Nombre: Cationic trypsin
 
 Organismo: Bos taurus (Bovine)
@@ -195,9 +199,11 @@ PF00089. Trypsin. 1 hit.
  
 Supfam. SSF50494. 1 hit. 
    
-+ 1YPH (EC:3.4.21.1)
++ 1YPH 
    
 Código uniprot: P00766
+
+EC:3.4.21.1
 
 Nombre: Chymotrypsinogen A
 
@@ -226,6 +232,8 @@ Supfam SSF50494. SSF50494. 1 hit.
 + 1SGT
 
 Código uniprot:  P00775
+
+EC:3.4.21.4
 
 Nombre: Trypsin
 
@@ -259,6 +267,8 @@ SSF50494. SSF50494. 1 hit.
 + 2SGA
  
 Código uniprot:  P00776
+
+EC:3.4.21.80
 
 Nombre: Streptogrisin-A
 
@@ -298,6 +308,8 @@ SSF50494. SSF50494. 1 hit.
 Código uniprot:  P00782
 
 Nombre: Subtilisin BPN'
+
+EC:3.4.21.62
  
 Organismo: Bacillus amyloliquefaciens (Bacillus velezensis)
 
@@ -352,6 +364,8 @@ SSF54897. SSF54897. 1 hit.
 
 CODIGO UNIPROT: P09210
 
+EC:2.5.1.18
+
 Nombre: Glutathione S-transferase A2
 
 Organismo: Homo sapiens (Human)
@@ -374,6 +388,8 @@ Dominios: 2 dominios; Posicion 3-83, GST N-terminal, LONGITUD 81; Posicion 85 �
                                                                                          	
 + 1AGP
 Codigo Uniprot:  P01112
+
+EC: no found
 
 Nombre: GTPase HRas
 
@@ -673,7 +689,7 @@ Al utilizar la herramienta uniprot se encontró que las proteínas que se encuen
 
 __P.30 Que sucederá al aumentar la distancia evolutiva entre estas proteinas, por ejemplo utilizando 20,30,40,50,60,70,80 y 90 unidades PAM, cambiará el porcentaje de identidad? el porcentaje de similitud?__
 
-Al aumentar la distancia de la secuencia evolutiva de:
+l aumentar la distancia de la secuencia del Cationic trypsin utilizando una:
 
 + PAM de 20 (Rates:2; Time:10) y posteriormente realizar un alineamiento de esta nueva secuencia junto con la secuencia original se obtuvo que entre ellas existen un porcentaje de identidad de 89.796% y al analizar su secuencia estas solo comparten 2 residuos de su sitio activo. Con respecto a las posiciones similaridad esta posee 14 residuos.
 
@@ -681,21 +697,29 @@ Al aumentar la distancia de la secuencia evolutiva de:
 
 + PAM de 40 (Rates: 4; Time: 10) se encontró que en este caso el porcentaje de identidad es de un 89.796% y posee 21 posiciones similares.
 
-+ PAM de 60 (Rates: 6; Time 6)  se encontró que en este caso el porcentaje de identidad es de un 37.109% y posee 16 posiciones similares
++ PAM de 50 (Rates: 5; Time 10) se encontró que en este caso el porcentaje de identidad es de 89.431% y la similaridad de posiciones es de 21.
+
+http://www.uniprot.org/align/A20171025A7434721E10EE6586998A056CCD0537E1AD80EM
+
++ PAM de 60 (Rates: 6; Time 10)  se encontró que en este caso el porcentaje de identidad es de un 37.109% y posee 16 posiciones similares
 http://www.uniprot.org/align/A201710258A530B6CA0138AFAA6D2B97CE8C2A924F2A4D3R
 
-PAM de 70   se encontró que en este caso el porcentaje de identidad es de un 93.089% y posee 13 posiciones similares
+PAM de 70 (Rates: 7; Time 10)se encontró que en este caso el porcentaje de identidad es de un 93.089% y posee 13 posiciones similares
 http://www.uniprot.org/align/A20171025F725F458AC8690F874DD868E4ED79B88D38443S
 
-PAM de 80 se encontró que en este caso el porcentaje de identidad es de un 91.87% y posee 18 posiciones similares
+PAM de 80 (Rates: 8; Time 10) se encontró que en este caso el porcentaje de identidad es de un 91.87% y posee 18 posiciones similares
 http://www.uniprot.org/align/A20171025F725F458AC8690F874DD868E4ED79B88D38456N
 
-PAM de 90 se encontró que en este caso el porcentaje de identidad es de un 91.87% y posee 13 posiciones similares
+PAM de 90 (Rates: 9; Time 10) se encontró que en este caso el porcentaje de identidad es de un 91.87% y posee 13 posiciones similares
 http://www.uniprot.org/align/A201710258A530B6CA0138AFAA6D2B97CE8C2A924F2A522M
 
 
 
 __P31 ¿Que cambios deben ocurrir para que la distancia evolutiva no permita reconocer los homo- lógos cercanos?__
+
+Deben ocurrir cambios tan abrumadores que logren modificar los elementos de estructura secundaria,como por ejemplo si en la secuencia original se encontraban, en gran cantidad, dominios compuestos por beta plegadas, ahora hayan alfa hélices. También que exista un cambio de secuencias necesario para que el plegamiento de esta proteína sea totalmente distinta a la original. Otro punto importante es el sitio activo de la proteína, en donde debería tener una función diferente. Todos estos elementos, junto a varios factores que también pueden influir en la homología, deben sufrir un cambio para que la distancia evolutiva no permitan reconocer que las proteínas, la original y la que fue afectada por procesos evolutivos, sean homólogas.  
+
+
 
 # 2.2 Relación secuencia-función
 
