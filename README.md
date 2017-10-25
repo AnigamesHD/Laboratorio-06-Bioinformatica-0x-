@@ -595,144 +595,112 @@ Logo: http://pfam.xfam.org/family/Ras#tabview=tab4
 
 __P.20 Para cada proteína, vaya a la sección “Detailed signature matches”. Registre los patro- nes/familias identificadas por InterPro para cada una de las secuencias. (PISTA: Si pasa el mouse sobre cada fila con información en esta sección, se expandirá una ventana con el nombre completo del motivo/familia y la base de datos de donde proviene.__
 
-Según la base de datos de interpro se observo las siguientes características de las proteínas nombradas anteriormente:  
+Según la base de datos de interpro se encontró las siguientes características de las proteínas nombradas anteriormente:
+3OTJ (Cationic Trypsin): Pertenece a la familia de chymotrypsin, Peptidase S1A y posee 1 dominio de tripsina. 1YPH (Chymotrypsinogen A): Es parte de la familia de chymotrypsin, Peptidase S1A y posee 1 dominio de trypsine. 1SGT (Trypsin): Al igual que las proteínas anteriores, esta pertenece a la familia de las trypsin-like serine proteases y posee un dominio de serina 2SGA Streptogrisin-A Streptogrisin pro domain: GENE 3D tenemos:G3DSA:3.30.300.50 Peptidase S1 PA CLAN SUPERFAMILY SF50494 (Trypsin-like serine proteases) Peptidase S1A, alpha-lytic prodomain Pfam:PF02983 (Pro_Al_protease) Serine proteases, trypsin domain Pfam:PF00089 (Trypsin) 4H4F (Quimiotripsina C) En Peptidase S1, PA clan tenemos: SUPERFAMILY
+SSF50494 (Trypsin-like serine proteases) En Peptidase S1A, quimiotripsina familia tenemos: PRINTS
+PR00722 (CHYMOTRYPSIN) En la familia serina proteasas, en el dominio tripsina, tenemos: Cd00190 (Tryp_SPc) CDD
+PS50240(TRYPSIN_DOM) PROSITE profiles
+PF00089 (Trypsin) Pfam
+SM00020 (Trypsin_2) SMART
+1SBT Subtilisin BPN Peptidase S8 propeptide/proteinase inhibitor I9 superfamily GENE3D G3DSA:3.30.70.80 (G3DSA:3.30.70.80) Protease propeptides/proteinase inhibitor I9 SUPERFAMILY SSF54897 (Protease propeptides/inhibitors) Peptidase S8/S53 domain superfamily GENE3D G3DSA:3.40.50.200 (G3DSA:3.40.50.200) SUPERFAMILY SSF52743 (Subtilisin-like)
 
-+ 1YPH (Chymotrypsinogen A): Es parte de la familia de chymotrypsin, Peptidase S1A y posee 1 dominio  de trypsine.
-
-+ 3OTJ (Cationic Trypsin): Corresponde a la familia de chymotrypsin, Peptidase S1A
-y posee 1 dominio de tripsina. 
-
-+ 1SGT (Trypsin): Al igual que las proteínas anteriores, esta pertenece a la familia de las trypsin-like serine proteases y posee un dominio de serina
-
-
-2SGA Streptogrisin-A
- 
-Streptogrisin pro domain: GENE 3D  tenemos:
-G3DSA:3.30.300.50
- 
-Peptidase S1 PA CLAN SUPERFAMILY  
-SSF50494 (Trypsin-like serine proteases)
- 
-Peptidase S1A, alpha-lytic prodomain  Pfam  
-PF02983 (Pro_Al_protease)
- 
-Serine proteases, trypsin domain Pfam  
-PF00089 (Trypsin)
-
-
-
-
-+  4H4F (Quimiotripsina C)
-- En Peptidase S1, PA clan tenemos: SUPERFAMILY  
-SSF50494 (Trypsin-like serine proteases)
-- En Peptidase S1A, quimiotripsina familia tenemos: PRINTS  
-PR00722 (CHYMOTRYPSIN)
-- En la familia serina proteasas, en el dominio tripsina, tenemos:
-Cd00190 (Tryp_SPc) CDD  
-PS50240(TRYPSIN_DOM) PROSITE profiles  
-PF00089 (Trypsin) Pfam  
-SM00020 (Trypsin_2) SMART  
-NOTA: Decidí no añadir las unintegrated signatures, ya que probablemente no sean datos curados.
-
-
-1SBT Subtilisin BPN'
- 
-Peptidase S8 propeptide/proteinase inhibitor I9 superfamily
-GENE3D  
-G3DSA:3.30.70.80 (G3DSA:3.30.70.80)
- 
-Protease propeptides/proteinase inhibitor I9
-SUPERFAMILY  
-SSF54897 (Protease propeptides/inhibitors)
- 
-Peptidase S8/S53 domain superfamily
-GENE3D  
-G3DSA:3.40.50.200 (G3DSA:3.40.50.200)
-SUPERFAMILY  
-SSF52743 (Subtilisin-like)
- 
-
-
- 
-Peptidase S8, subtilisin-related
-PRINTS  
+Peptidase S8, subtilisin-related PRINTS
+PR00723 (SUBTILISIN) PRINTS
+PR00723 (SUBTILISIN) PRINTS
 PR00723 (SUBTILISIN)
-PRINTS  
-PR00723 (SUBTILISIN)
-PRINTS  
-PR00723 (SUBTILISIN)
- 
- 
-Peptidase S8 propeptide/proteinase inhibitor I9
-Pfam  
+
+Peptidase S8 propeptide/proteinase inhibitor I9 Pfam
 PF05922 (Inhibitor_I9)
- 
-Peptidase S8/S53 domain
-Pfam  
+
+Peptidase S8/S53 domain Pfam
 PF00082 (Peptidase_S8)
- 
-Subtilisin Carlsberg-like catalytic domain
-CDD  
+
+Subtilisin Carlsberg-like catalytic domain CDD
 cd07477 (Peptidases_S8_Subtilisin_subset)
- 
-Peptidase S8, subtilisin, Asp-active site
-PROSITE patterns  
+
+Peptidase S8, subtilisin, Asp-active site PROSITE patterns
 PS00136 (SUBTILASE_ASP)
- 
-Peptidase S8, subtilisin, His-active site
-PROSITE patterns  
+
+Peptidase S8, subtilisin, His-active site PROSITE patterns
 PS00137 (SUBTILASE_HIS)
- 
-Peptidase S8, subtilisin, Ser-active site
-PROSITE patterns  
+
+Peptidase S8, subtilisin, Ser-active site PROSITE patterns
 PS00138 (SUBTILASE_SER)
 
 P.21 La información obtenida para Pfam y Prosite desde InterPro, ¿corresponde con aquella obtenida por usted desde esas bases de datos directamente en los puntos anteriores?
 
 Si, ya que Interpro utiliza a estas bases de datos como herramientas para entregar un análisis detallado del ensayo. Es decir, mezcla la información sobre dominios y familias proteicas y otras bases de datos y realiza una biblioteca en base a la información curada disponible. Las bases de datos que le sirven de herramienta forman parte del interpro consotrium (ver https://www.ebi.ac.uk/interpro/about.html)
 
-P.22 ¿Qué otras bases de datos, además de Pfam y Prosite, están contenidas en InterPro y que información aportan sobre las proteínas que usted investigó? Nombre las bases de datos.
+__P.22 ¿Qué otras bases de datos, además de Pfam y Prosite, están contenidas en InterPro y que información aportan sobre las proteínas que usted investigó? Nombre las bases de datos.__
 
  Aparte de las bases de datos ya mencionadas se encuentra CDD (Conserved Protein Domain Family)  y SMART (simple modular architecture research tool). CDD entrega información del sitio activo, sitio de escisión y el sustrato representadas en imágenes de proteínas modeladas además nos entrega una sequence cluster. Mientras que SMART permite explorar arquitecturas de dominio, y revisar en qué organismos es posible encontrar dicho dominio.
 
-HMMER
+# HIMMER
 
-P.23 La información obtenida para Pfam y Prosite, InterPro y HMMER, ¿corresponde con aquella obtenida por usted desde esas bases de datos directamente en los puntos anteriores?
+__P.23 La información obtenida para Pfam y Prosite, InterPro y HMMER, ¿corresponde con aquella obtenida por usted desde esas bases de datos directamente en los puntos anteriores?__
 
 Al realizar la búsqueda de las correspondientes proteínas por HMMER, la información entregada por esta corrobora con los datos obtenidos por Pfam, InterProt y Prosite entregando así información relevante de taxonomía, score y dominios que estas proteínas posean.
-P.24 ¿Qué otras bases de datos, además de Pfam y Prosite, están contenidas en InterPro y aportan información para las proteínas que usted investigó? Nombre las bases de datos.
+
+__P.24 ¿Qué otras bases de datos, además de Pfam y Prosite, están contenidas en InterPro y aportan información para las proteínas que usted investigó? Nombre las bases de datos.__
 
 Aparte de las bases de datos ya mencionadas se encuentra CDD (Conserved Protein Domain Family)  y SMART (simple modular architecture research tool). CDD entrega información del sitio activo, sitio de escisión y el sustrato representadas en imágenes de proteínas modeladas además nos entrega una sequence cluster. Mientras que SMART permite explorar arquitecturas de dominio, y revisar en qué organismos es posible encontrar dicho dominio.
 
-P.25 ¿Son los resultados entregados equivalentes al buscar por código que por secuencia? 
+__P.25 ¿Son los resultados entregados equivalentes al buscar por código que por secuencia?__ 
 
-_R_: En general los dos tipos de búsquedas entregan una información similar, la diferencia radica en que al buscar por la secuencia, en la pestaña de score, entrega un hit de coverage y Similarity.  
+Los dos tipos de búsquedas en general entregan una información similar, la diferencia se encuentra en que al buscar por la secuencia, en la pestaña de score, entrega un hit de coverage y Similarity.  
 
-P.26 ¿Que puede inferir de las relaciones entre estas proteínas con los resultados entregados?
+__P.26 ¿Que puede inferir de las relaciones entre estas proteínas con los resultados entregados?__
 
 Al realizar la búsqueda por HMMER, se logra inferir que las primeras 5 proteínas (Q99895, P00766, P00760, P00775, P007769) corresponden a  la familia Trypsin, pero a su vez la quinta ya no solo forma  parte de la familia de las trypsin sino que también por Pro_Al_protease, siendo además las primeras 4 proteínas pertenecientes en gran medida a organismos eucariontes, en tanto la 5 proteínas corresponde en gran medida a Bacterias. Por otro lado la búsqueda de las proteínas 6, 7 y 8, arrojó información diferente a las primeras, en el cual la sexta proteína (P00782) corresponde a una Peptidase_S8 en el cual abunda en gran medida tanto en eucariones (8826) como en bacterias (8754), en tanto  la 7 proteína (P09210) pertenece a GST_C_3 y  GST_N siendo abundante en eucariontes, por último la última proteína  (P01112) dio como resultado que este pertenece a Ras, estando casi completamente presentes solo en organismos eucariontes, por lo cual con esto se logra inferir  que las primeras 5 proteínas corresponde a un proceso evolutivo de convergencia dado que poseen información similar, misma familia y perteneciendo mayormente a organismos eucariontes, en tanto al resto de proteínas estas difieren de las primeras ya que, no corresponden a Trypsin y ya no solo abundan en eucariotas sino que también en bacterias como es el caso de la  P00782.
 
-En el caso que Ud. deba que caracterizar una muestra problema,
-P.27 Genere una hipótesis que pueda resolver utilizando la información contenida en los diferentes sitios observados
+__En el caso que Ud. deba que caracterizar una muestra problema,
+P.27 Genere una hipótesis que pueda resolver utilizando la información contenida en los diferentes sitios observados__
 
-_R_: La hipotesis seria que, si la muestra problema posee elementos estructurales secundarios, triada catalítica y función similar, a una proteína ya descrita,  existe un a gran posibilidad de que la muestra en cuestión sea de la misma familia de la proteina a la que es parecida.  
-
-
-P.28 ¿Cuál programa o base de datos utilizaría?
-
-Tasas de mutaciones y caracterización funcional
+La posible hipotesis corresponderia a o siguiente; si la muestra problema posee elementos estructurales secundarios, triada catalítica y función similar, a una proteína ya descrita,  existe un a gran posibilidad de que la muestra en cuestión sea de la misma familia de la proteina a la que es parecida.  
 
 
-P.29 Utilizando las herramientas de este práctico compruebe que proteinas de baja distancia evolutiva entre ellas son reconocibles como miembros de una misma familia.
+__P.28 ¿Cuál programa o base de datos utilizaría?__
 
-P.30 Que sucederá al aumentar la distancia evolutiva entre estas proteinas, por ejemplo utilizando 20,30,40,50,60,70,80 y 90 unidades PAM, cambiará el porcentaje de identidad? el porcentaje de similitud?
+En primer lugar asumiendo que conocemos la secuencia de la muestra problema acudiría a uniprot para obtener la secuencias, su correspondiente codigo uniprot, su triada catalítica, su estructura u otras características relevantes, para  comprobar estos datos acudimos a otra base de datos como por ejemplo Pfam para corroborar la información y para establecer de qué familia provienen los de la  muestra
 
-P31 ¿Que cambios deben ocurrir para que la distancia evolutiva no permita reconocer los homo- lógos cercanos?
 
-2.2 Relación secuencia-función
+# Tasas de mutaciones y caracterización funcional
 
-P.32 En base a sus resultados, ¿que relación debe existir entre la 
-secuencia,estructura y la fun- ción?. Genere una hipótesis de trabajo.
+
+__P.29 Utilizando las herramientas de este práctico compruebe que proteinas de baja distancia evolutiva entre ellas son reconocibles como miembros de una misma familia.__
+
+Al utilizar la herramienta uniprot se encontró que las proteínas que se encuentra más cercanas evolutivamente son la Tripsina cationica y el quimiotripsinogeno A, los cuales al realizarles un alineamiento se encontró que  presentaban un porcentaje de identidad de un 38.281% y poseían los mismos dominios y sitios activos. 
+
+__P.30 Que sucederá al aumentar la distancia evolutiva entre estas proteinas, por ejemplo utilizando 20,30,40,50,60,70,80 y 90 unidades PAM, cambiará el porcentaje de identidad? el porcentaje de similitud?__
+
+Al aumentar la distancia de la secuencia evolutiva de:
+
++ PAM de 20 (Rates:2; Time:10) y posteriormente realizar un alineamiento de esta nueva secuencia junto con la secuencia original se obtuvo que entre ellas existen un porcentaje de identidad de 89.796% y al analizar su secuencia estas solo comparten 2 residuos de su sitio activo. Con respecto a las posiciones similaridad esta posee 14 residuos.
+
++ PAM de 30 (Rates: 3; Time: 10) y después del alineamiento estos poseen una identidad de 92.653% y la similaridad decae muy poco de 14 a 12 residuos similares.
+
++ PAM de 40 (Rates: 4; Time: 10) se encontró que en este caso el porcentaje de identidad es de un 89.796% y posee 21 posiciones similares.
+
++ PAM de 60 (Rates: 6; Time 6)  se encontró que en este caso el porcentaje de identidad es de un 37.109% y posee 16 posiciones similares
+http://www.uniprot.org/align/A201710258A530B6CA0138AFAA6D2B97CE8C2A924F2A4D3R
+
+PAM de 70   se encontró que en este caso el porcentaje de identidad es de un 93.089% y posee 13 posiciones similares
+http://www.uniprot.org/align/A20171025F725F458AC8690F874DD868E4ED79B88D38443S
+
+PAM de 80 se encontró que en este caso el porcentaje de identidad es de un 91.87% y posee 18 posiciones similares
+http://www.uniprot.org/align/A20171025F725F458AC8690F874DD868E4ED79B88D38456N
+
+PAM de 90 se encontró que en este caso el porcentaje de identidad es de un 91.87% y posee 13 posiciones similares
+http://www.uniprot.org/align/A201710258A530B6CA0138AFAA6D2B97CE8C2A924F2A522M
+
+
+
+__P31 ¿Que cambios deben ocurrir para que la distancia evolutiva no permita reconocer los homo- lógos cercanos?__
+
+# 2.2 Relación secuencia-función
+
+__P.32 En base a sus resultados, ¿que relación debe existir entre la 
+secuencia,estructura y la función?. Genere una hipótesis de trabajo.__
 
 En el concepto de la genómica se tenía que la divergencia era súper clara, 2 secuencias que tenían  bajo % de identidad  tenían un ancestro lejano  y a medida que mejoraba su score,  su % de identidad e-value iban acercándose evolutivamente, esas secuencias  y eso es porque la tasa de mutación  es super clara, es decir de generacion a generacion  van cambiando, en cambio en proteínas observamos que  el avance es mucho más lento, entonces esa divergencia no es tan obvia, porque uno dice quizas es importante la función  y ya vimos este este práctico que en el caso de las serine proteasas que la función no es tan clara, así mismo tampoco lo es  la actividad catalítica, entonces donde realmente empieza a ver la diferenciación en término de un estado de convergencia y divergencia en la proteína, ya vimos que no es tan solo la función o la actividad catalítica, sino que hay que ver el plegamiento que tiene la proteína, porque como es tan lento ese cambio, si eso se hubiera separado hace poco tiempo,  se esperaría que hubieran pocos cambios estructurales, como la estructura va cambiando más lentamente yo espero que estructuras similares  provengan de un ancestro similar y estructuras diferentes provengan de otros ancestros, entonces la forma de mirar a diferencia de la genómica que era el score que es idéntica la secuencia, aca no es tan clara, sino que en parte observamos que  la  estructura es importante, sin embargo durante el desarrollo del práctico nos dimos cuenta que en esta familia de proteínas están estas cosas llamadas dominios que son también conservados y el significado de estos dominios es que corresponden a patrones repetitivos de secuencias que son como una finball en la secuencia, son como las expresiones regulares de las proteínas, en el cual estos patrones, cada vez que aparecen ahí, empiezan a tener una función super especifica que cada vez que son útiles los va conservano la proteína, tal vez no el plegamiento, sino que sólo esa secuencia indica que este era útil por ABC motivo estabiliza a la proteína-estructura del sitio activo-le entrega área y superficie- le permite la unión- cualquier propiedad que le beneficie a la función, entonces lo empieza a mantener, si lo saco de ahí  a lo mejor esto se desaparece, pero si lo mantiene en el contexto   a lo mejor empieza a tener significado, si lo uno  con que la estructura evoluciona despacio  y la estructura
 
