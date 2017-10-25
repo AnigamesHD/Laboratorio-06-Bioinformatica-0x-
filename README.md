@@ -551,32 +551,47 @@ __P.19 informe el nombre de la familia, dominios y al menos una porción del log
 
 + Q99895
 Family: Trypsin (PF00089)
+
 Dominio: Peptidase S1A
+
 Logo: https://www.dropbox.com/s/1cnq7zokm80rt52/Captura%20de%20pantalla%202017-10-25%20a%20la%28s%29%2020.21.00.png?dl=0
+ Se muestra  conservación de una prevalencia del aminoacido G  correspondiente a Glicina.
+
 http://pfam.xfam.org/family/PF00089#tabview=tab4
 
 + P00766
 Family: Trypsin (PF00089)
+
 Dominio: Peptidase S1A
+
 Logo: https://www.dropbox.com/s/1cnq7zokm80rt52/Captura%20de%20pantalla%202017-10-25%20a%20la%28s%29%2020.21.00.png?dl=0
+ Se muestra  conservación de una prevalencia del aminoacido G  correspondiente a Glicina.
 
 http://pfam.xfam.org/family/Trypsin#tabview=tab4
 
 + P00760
+
 Family: Trypsin (PF00089)
 
 Dominio: Petidase S1A
 
 Logo: https://www.dropbox.com/s/1cnq7zokm80rt52/Captura%20de%20pantalla%202017-10-25%20a%20la%28s%29%2020.21.00.png?dl=0
+Se muestra  conservación de una prevalencia del aminoacido G  correspondiente a Glicina.
 
 http://pfam.xfam.org/family/Trypsin_2#tabview=tab4
 
 +P00775
+
 Family: Trypsin (PF00089)
+
 Dominio: Petidase S1A
+
 SCOOP:	DUF1986 DUF316 Peptidase_S29 Peptidase_S32 Peptidase_S46 Peptidase_S7 Trypsin_2
+
 Similarity to PfamA using HHSearch:	DUF316 DUF1986 Trypsin_2
+
 Logo: https://www.dropbox.com/s/1cnq7zokm80rt52/Captura%20de%20pantalla%202017-10-25%20a%20la%28s%29%2020.21.00.png?dl=0
+ Se muestra  conservación de una prevalencia del aminoacido G  correspondiente a Glicina.
 
 http://pfam.xfam.org/family/Trypsin#tabview=tab0
 
@@ -588,6 +603,8 @@ Dominio: Petidase S1A
 
 Logo: https://www.dropbox.com/s/1cnq7zokm80rt52/Captura%20de%20pantalla%202017-10-25%20a%20la%28s%29%2020.21.00.png?dl=0
 
+Se muestra  conservación de una prevalencia del aminoacido G  correspondiente a Glicina.
+
 http://pfam.xfam.org/family/Trypsin#tabview=tab4
 
 + P00776
@@ -597,6 +614,7 @@ Family: Trypsin (PF00089)
 Dominio: Petidase S1A
 
 Logo: https://www.dropbox.com/s/1cnq7zokm80rt52/Captura%20de%20pantalla%202017-10-25%20a%20la%28s%29%2020.21.00.png?dl=0
+ Se muestra  conservación de una prevalencia del aminoacido G  correspondiente a Glicina.
 
 http://pfam.xfam.org/family/Trypsin#tabview=tab0
 
@@ -605,6 +623,7 @@ Family: Pro_Al_protease (PF02983) Loading page components (2 remaining)
 Dominio: None
 
 Logo: https://www.dropbox.com/s/3f0ph2q2ov6flph/Captura%20de%20pantalla%202017-10-25%20a%20la%28s%29%2020.26.31.png?dl=0
+Se observa D (acido Aspártico)a ltamente conservado , mientras que se muestra menos conservación pero igual con  prevalencia de los aminoácidos hidrofóbicos W (Triptófano), N (Asparagina) y  V (Valina).
 
 http://pfam.xfam.org/family/Pro_Al_protease#tabview=tab4
 
