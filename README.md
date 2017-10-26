@@ -800,9 +800,11 @@ En el concepto de la genómica se tenía que la divergencia era súper clara, 2 
 
 En resumen tener igual estructura  implica evolutivamente muchas posibilidades  de que tengan igual función, que tengan igual función no implica  que tengan la misma estructura, porque tenemos el fenómeno de evolución convergente  y evolución divergente, pero asi mismo estos patrones repetitivos  (dominios) de secuencias cumple un rol relevante dado que las proteínas lo van conservando.
 
-Posibles  
-Hipotesis 1: Proteínas que provenga de la misma familia conllevan a que ellas tengan la misma función, estructura y secuencia.
-Hipotesis 2: Proteínas que poseean la misma estructura en el concepto evolutivo implica que exista una gran probabilidad de que tengan la misma función, pero que posean la misma función no significa que posean la misma estrcutura, ya que está el concepto  de evolución convergente y evolución divergente
+Posibles  Hipótesis
+
+Hipótesis 1: Proteínas que provenga de la misma familia conllevan a que ellas tengan la misma función, estructura y secuencia.
+
+Hipótesis 2: Proteínas que poseean la misma estructura en el concepto evolutivo implica que exista una gran probabilidad de que tengan la misma función, pero que posean la misma función no significa que posean la misma estructura, ya que está el concepto  de evolución convergente y evolución divergente
 
 
 
