@@ -643,7 +643,8 @@ Family: Inhibitor_I9 (PF05922) Loading page components (1 remaining)…
 Dominio: None
 
 Logo: https://www.dropbox.com/s/9hg3vwludy191rd/Captura%20de%20pantalla%202017-10-25%20a%20la%28s%29%2020.31.05.png?dl=0
-
+ Se observa Y (Tirosina) con una prevalencia altamente conservado
+ 
 http://pfam.xfam.org/family/Inhibitor_I9#tabview=tab4
 
 + P09210
@@ -653,7 +654,8 @@ Family: GST_N (PF02798)
 Dominio: Glutathione S-transferase
 
 Logo: https://www.dropbox.com/s/iekpcoljhydbnvd/Captura%20de%20pantalla%202017-10-25%20a%20la%28s%29%2020.33.10.png?dl=0
-
+ Se observa P (Prolina) con una prevalencia  altamente conservado.
+ 
 http://pfam.xfam.org/family/GST_N#tabview=tab4
 
 Family: GST_C_3 (PF14497)
@@ -661,7 +663,7 @@ Family: GST_C_3 (PF14497)
 Dominio: Glutathione S-transferase, C-terminal
 
 Logo: https://www.dropbox.com/s/igod1jmwu1sa0gy/Captura%20de%20pantalla%202017-10-25%20a%20la%28s%29%2020.34.22.png?dl=0
-
+ Se observa D (Aspártico) con una prevalencia altamente conservado
 http://pfam.xfam.org/family/GST_C_3#tabview=tab4
 
 + P01112
@@ -798,7 +800,7 @@ En el concepto de la genómica se tenía que la divergencia era súper clara, 2 
 
 En resumen tener igual estructura  implica evolutivamente muchas posibilidades  de que tengan igual función, que tengan igual función no implica  que tengan la misma estructura, porque tenemos el fenómeno de evolución convergente  y evolución divergente, pero asi mismo estos patrones repetitivos  (dominios) de secuencias cumple un rol relevante dado que las proteínas lo van conservando.
 
-Hipotesis: Proteínas que provenga de la misma familia conllevan a que tenga la misma función, estructura y secuencia
+Posible Hipotesis: Proteínas que provenga de la misma familia conllevan a que ellas tengan la misma función, estructura y secuencia.
 
 
 
